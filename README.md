@@ -6,13 +6,16 @@
 
 ## Top ePharmacy - BOYB (Bring Your Own Brands) Ecosystem
 
+> [!NOTE]
+> **SEO Metadata & Search Target**: White-label online pharmacy software, custom medicine delivery app development, B2B SaaS pharmacy platforms, open-source pharmacy ERP, digital health-tech solutions, ePharmacy BOYB ecosystem, self-hosted pharmacy software, custom branded ePharmacy apps.
+
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on White-Label Pharmacy, Medicine Delivery & Custom Branded ePharmacy Platforms*  
 **Last updated: March 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **ePharmacy BOYB (Bring Your Own Brands)** solutions. These platforms enable pharmacies, startups, and businesses to launch their own branded medicine delivery apps, online pharmacies, inventory systems, and telemedicine features with full customization and ownership.
+Welcome to the ultimate directory for building your own branded digital pharmacy! This repository tracks notable **SaaS platforms** and **open-source projects** for **ePharmacy BOYB (Bring Your Own Brands)** solutions. These platforms enable pharmacies, healthcare startups, and medical businesses to launch their own branded medicine delivery apps, online pharmacies, retail pharmacy inventory systems, and telemedicine features with full white-label customization and ownership.
 
-**Examples** include evitalRx, Emedstore, digitalpharmasy.io, krify, hybridplus, indglobal, trakop, appy pie gofrugal, and itecholabs (the category leaders). Tools listed here emphasize **white-label customization**, inventory management, prescription handling, delivery logistics, and compliance features.
+**Examples** of category leaders include evitalRx, Emedstore, digitalpharmasy.io, krify, hybridplus, indglobal, trakop, appy pie gofrugal, and itecholabs. Tools listed here emphasize **white-label customization**, inventory management, prescription handling, delivery logistics, and compliance features.
 
 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, full customization, local deployment, and complete data ownership — ideal for pharmacies, health-tech startups, and developers who want cost-effective and sovereign ePharmacy solutions.
 
