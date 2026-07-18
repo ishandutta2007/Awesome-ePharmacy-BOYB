@@ -18,15 +18,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📋 Table of Contents
+- [SaaS Products](#-saas-products)
+- [Open-Source GitHub Projects](#-open-source-github-projects)
+- [How to Contribute](#-how-to-contribute)
+- [Disclaimer](#-disclaimer)
 
-## SaaS Products
+## 🚀 SaaS Products
 
-### Core Platforms (ePharmacy BOYB)
+### 💼 Core Platforms (ePharmacy BOYB)
 
 | Product Name | Description | Company Size (Revenue / Valuation) | Pricing & Free Tier Limits |
 | :--- | :--- | :--- | :--- |
@@ -40,13 +40,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[hybridplus](https://hybridplus.in/)** | Hybrid ePharmacy platform supporting both online and offline operations with branding. | Undisclosed / Early-stage (Est. 2022) | Custom/milestone-based development pricing. No free tier. |
 | **[digitalpharmasy.io](https://digitalpharmasy.io/)** | Modern white-label platform for building branded online pharmacies. | Undisclosed | Custom pricing / Contact sales. No free tier. |
 
-### Advanced & Specialized Platforms
+### 🌟 Advanced & Specialized Platforms
 
 **Other notable mentions**: Various health-tech white-label providers and pharmacy management systems.
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-### Dedicated ePharmacy & White-Label Solutions
+### 🛠️ Dedicated ePharmacy & White-Label Solutions
 
 - **[Odoo Pharmacy Modules](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Full open-source ERP with pharmacy, inventory, sales, and delivery modules that can be branded as your own ePharmacy.
@@ -84,7 +84,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[OpenClinic GA](https://github.com/openclinic/openclinic)** [![GitHub stars](https://img.shields.io/github/stars/openclinic/openclinic?style=social&color=white)](https://github.com/openclinic/openclinic/stargazers)  
   Open-source medical information system with pharmacy management capabilities.
 
-### Additional Strong Open-Source Options
+### 💡 Additional Strong Open-Source Options
 
 - **[n8n + Odoo** workflows for automated pharmacy delivery and order processing.
 - **[LangGraph Pharmacy Agents** for building AI-powered inventory and prescription agents.
@@ -92,7 +92,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom BOYB platforms**: Combine **Odoo**, **ERPNext**, **MedusaJS**, and **WooCommerce** with **n8n** and **Ollama** to create fully sovereign, AI-enhanced white-label ePharmacy solutions.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -101,7 +101,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - ePharmacy solutions must comply with local drug regulations, licensing, and data privacy laws (e.g., HIPAA, GDPR).
