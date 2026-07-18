@@ -114,6 +114,17 @@ Star the repo if you find it useful!
 - ePharmacy solutions must comply with local drug regulations, licensing, and data privacy laws (e.g., HIPAA, GDPR).
 - Self-hosted open-source solutions require proper security, compliance, and maintenance.
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-ePharmacy-BOYB&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-ePharmacy-BOYB&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-ePharmacy-BOYB&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-ePharmacy-BOYB&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 **Made for pharmacists, health-tech entrepreneurs, and digital pharmacy operators.**  
