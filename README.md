@@ -43,40 +43,44 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated ePharmacy & White-Label Solutions
 
-- **[OpenEMR](https://github.com/openemr/openemr)**  
-  Leading open-source electronic health records and medical practice management system with pharmacy and inventory modules suitable for ePharmacy customization.
-
-- **[Odoo Pharmacy Modules](https://github.com/odoo/odoo)**  
+- **[Odoo Pharmacy Modules](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Full open-source ERP with pharmacy, inventory, sales, and delivery modules that can be branded as your own ePharmacy.
 
-- **[ERPNext Healthcare](https://github.com/frappe/erpnext)**  
+- **[ERPNext Healthcare](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   Open-source ERP with strong healthcare and pharmacy management features, easily customized into a white-label solution.
 
-- **[MedusaJS + Pharmacy Extensions](https://github.com/medusajs/medusa)**  
+- **[MedusaJS + Pharmacy Extensions](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
   Headless commerce engine ideal for building custom branded ePharmacy stores with medicine catalogs and delivery.
 
-- **[Saleor](https://github.com/saleor/saleor)**  
-  Open-source headless commerce platform with excellent support for health product catalogs and custom branding.
-
-- **[Spree Commerce](https://github.com/spree/spree)**  
-  Ruby on Rails open-source ecommerce framework suitable for building white-label pharmacy marketplaces.
-
-- **[Bagisto](https://github.com/bagisto/bagisto)**  
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
   Laravel-based open-source ecommerce platform with strong customization for ePharmacy use cases.
 
-- **[WooCommerce + Pharmacy Plugins](https://github.com/woocommerce/woocommerce)**  
+- **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
+  Open-source headless commerce platform with excellent support for health product catalogs and custom branding.
+
+- **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
+  Ruby on Rails open-source ecommerce framework suitable for building white-label pharmacy marketplaces.
+
+- **[WooCommerce + Pharmacy Plugins](https://github.com/woocommerce/woocommerce)** [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
   Most popular open-source ecommerce solution that can be extended into a full branded ePharmacy.
 
-- **[OpenClinic GA](https://github.com/openclinic/openclinic)**  
-  Open-source medical information system with pharmacy management capabilities.
+- **[Dolibarr ERP/CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
+  Lightweight open-source ERP with pharmacy modules.
 
-- **[GNU Health](https://github.com/gnuhealth/gnuhealth)**  
+- **[OpenEMR](https://github.com/openemr/openemr)** [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)  
+  Leading open-source electronic health records and medical practice management system with pharmacy and inventory modules suitable for ePharmacy customization.
+
+- **[Tryton](https://github.com/tryton/tryton)** [![GitHub stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers)  
+  Open-source business solution with health extensions.
+
+- **[GNU Health](https://github.com/gnuhealth/gnuhealth)** [![GitHub stars](https://img.shields.io/github/stars/gnuhealth/gnuhealth?style=social&color=white)](https://github.com/gnuhealth/gnuhealth/stargazers)  
   Open-source hospital and pharmacy management system with strong customization potential.
+
+- **[OpenClinic GA](https://github.com/openclinic/openclinic)** [![GitHub stars](https://img.shields.io/github/stars/openclinic/openclinic?style=social&color=white)](https://github.com/openclinic/openclinic/stargazers)  
+  Open-source medical information system with pharmacy management capabilities.
 
 ### Additional Strong Open-Source Options
 
-- **[Dolibarr ERP/CRM](https://github.com/Dolibarr/dolibarr)** — Lightweight open-source ERP with pharmacy modules.
-- **[Tryton](https://github.com/tryton/tryton)** — Open-source business solution with health extensions.
 - **[n8n + Odoo** workflows for automated pharmacy delivery and order processing.
 - **[LangGraph Pharmacy Agents** for building AI-powered inventory and prescription agents.
 - Many community **medicine catalog** and **ePharmacy** templates built on MedusaJS and Saleor.
