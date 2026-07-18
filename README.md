@@ -1,4 +1,9 @@
 # Awesome-ePharmacy-BOYB
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome ePharmacy BOYB Banner" width="100%" />
+</p>
+
 ## Top ePharmacy - BOYB (Bring Your Own Brands) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
