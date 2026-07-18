@@ -23,32 +23,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (ePharmacy BOYB)
 
-- **[evitalRx](https://evitalrx.com/)**  
-  Comprehensive white-label ePharmacy platform with medicine delivery, inventory, and custom branding.
-
-- **[Emedstore](https://emedstore.in/)**  
-  BOYB-focused ePharmacy solution with strong pharmacy management and delivery features.
-
-- **[digitalpharmasy.io](https://digitalpharmasy.io/)**  
-  Modern white-label platform for building branded online pharmacies.
-
-- **[krify](https://krify.com/)**  
-  Custom ePharmacy development and white-label solutions with AI enhancements.
-
-- **[hybridplus](https://hybridplus.in/)**  
-  Hybrid ePharmacy platform supporting both online and offline operations with branding.
-
-- **[indglobal](https://indglobal.com/)**  
-  White-label ePharmacy and healthcare software provider with full customization.
-
-- **[trakop](https://trakop.com/)**  
-  Logistics and pharmacy management platform for branded delivery services.
-
-- **[GoFrugal (Appy Pie)](https://gofrugal.com/)**  
-  Retail pharmacy software with white-label and multi-store support.
-
-- **[iTechOLabs](https://itecholabs.com/)**  
-  Custom ePharmacy development and BOYB solutions for healthcare businesses.
+| Product Name | Description | Pricing & Free Tier Limits |
+| :--- | :--- | :--- |
+| **[evitalRx](https://evitalrx.com/)** | Comprehensive white-label ePharmacy platform with medicine delivery, inventory, and custom branding. | Paid plans start at ₹7,500/year. No free tier (free demo available). |
+| **[Emedstore](https://emedstore.in/)** | BOYB-focused ePharmacy solution with strong pharmacy management and delivery features. | Custom pricing based on requirements. No free tier (free demo available). |
+| **[digitalpharmasy.io](https://digitalpharmasy.io/)** | Modern white-label platform for building branded online pharmacies. | Custom pricing / Contact sales. No free tier. |
+| **[krify](https://krify.com/)** | Custom ePharmacy development and white-label solutions with AI enhancements. | Custom development pricing. No free tier. |
+| **[hybridplus](https://hybridplus.in/)** | Hybrid ePharmacy platform supporting both online and offline operations with branding. | Custom/milestone-based development pricing. No free tier. |
+| **[indglobal](https://indglobal.com/)** | White-label ePharmacy and healthcare software provider with full customization. | Custom pricing / Contact sales. No free tier. |
+| **[trakop](https://trakop.com/)** | Logistics and pharmacy management platform for branded delivery services. | Paid plans start at ~$59/month. No free tier (free demo available). |
+| **[GoFrugal (Appy Pie)](https://gofrugal.com/)** | Retail pharmacy software with white-label and multi-store support. | Paid plans start at ~₹18,000/year. No free tier (free trial available). |
+| **[iTechOLabs](https://itecholabs.com/)** | Custom ePharmacy development and BOYB solutions for healthcare businesses. | Custom development pricing. No free tier. |
 
 ### Advanced & Specialized Platforms
 
